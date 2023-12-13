@@ -74,3 +74,4 @@ def draw_box_plot():
     # Save image and return fig (don't change this part)
     fig.savefig('box_plot.png')
     return fig
+    print("box_plot.png")
